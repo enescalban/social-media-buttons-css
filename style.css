@@ -1,0 +1,157 @@
+@import "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+/* FACEBOOK */
+
+.box .ion-social-facebook {
+    border: 2px solid #3b5998;
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    color: #3b5998;
+    background: transparent;
+    text-decoration: none;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    transition: 0.3s all;
+}
+
+.box .ion-social-facebook:hover {
+    opacity: 0.8;
+    background: #3b5998;
+    color: white;
+
+}
+
+/*  END FACEBOOK */
+
+
+
+/* TWİTTER */
+
+.box .ion-social-twitter {
+    border: 2px solid #00acee;
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    color: #00acee;
+    background: transparent;
+    text-decoration: none;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    transition: 0.3s all;
+}
+
+.box .ion-social-twitter:hover {
+    opacity: 0.8;
+    background: #00acee;
+    color: white;
+
+}
+
+/*  END TWİTTER */
+
+
+/* YOUTUBE */
+
+.box .ion-social-youtube {
+    border: 2px solid #FF0000;
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    color: #FF0000;
+    background: transparent;
+    text-decoration: none;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    transition: 0.3s all;
+}
+
+.box .ion-social-youtube:hover {
+    opacity: 0.8;
+    background: #FF0000;
+    color: white;
+
+}
+
+/*  END YOUTUBE */
+
+
+/* WHATSAPP */
+
+.box .ion-social-whatsapp {
+    border: 2px solid #25D366;
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    color: #25D366;
+    background: transparent;
+    text-decoration: none;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    transition: 0.3s all;
+}
+
+.box .ion-social-whatsapp:hover {
+    opacity: 0.8;
+    background: #25D366;
+    color: white;
+
+}
+
+/*  END WHATSAPP */
+
+/* INSTAGRAM */
+
+.box .ion-social-instagram {
+    border: 2px solid #bc2a8d;
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    color: #bc2a8d;
+    background: transparent;
+    text-decoration: none;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    transition: 0.3s all;
+}
+
+.box .ion-social-instagram:hover {
+    opacity: 0.8;
+    background: #bc2a8d;
+    color: white;
+
+}
+
+/*  END INSTAGRAM */
